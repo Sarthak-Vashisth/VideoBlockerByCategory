@@ -1,0 +1,1 @@
+// This is where you would handle any background tasks for your extension.
